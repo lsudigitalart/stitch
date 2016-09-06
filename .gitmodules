@@ -7,3 +7,6 @@
 [submodule "2210hw2-MeliBuck"]
 	path = 2210hw2-MeliBuck
 	url = https://github.com/lsudigitalart/2210hw2-MeliBuck
+[submodule "2210hw2-geauthreauxz"]
+	path = 2210hw2-geauthreauxz
+	url = https://github.com/lsudigitalart/2210hw2-geauthreauxz
