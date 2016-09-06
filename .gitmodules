@@ -13,3 +13,6 @@
 [submodule "2210hw2-gwebb2"]
 	path = 2210hw2-gwebb2
 	url = https://github.com/lsudigitalart/2210hw2-gwebb2
+[submodule "2210hw2-mjtheriot4"]
+	path = 2210hw2-mjtheriot4
+	url = https://github.com/lsudigitalart/2210hw2-mjtheriot4
