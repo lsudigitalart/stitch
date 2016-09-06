@@ -4,3 +4,6 @@
 [submodule "2210hw2-Mayor-Cam"]
 	path = 2210hw2-Mayor-Cam
 	url = https://github.com/lsudigitalart/2210hw2-Mayor-Cam
+[submodule "2210hw2-MeliBuck"]
+	path = 2210hw2-MeliBuck
+	url = https://github.com/lsudigitalart/2210hw2-MeliBuck
